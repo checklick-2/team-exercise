@@ -1,3 +1,4 @@
+import Owen from "./components/owen";
 import "./App.css";
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
         <h1>Checklick 2</h1>
         <h2>Meet the team</h2>
       </header>
+      <Owen />
     </div>
   );
 }
