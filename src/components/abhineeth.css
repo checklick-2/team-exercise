@@ -1,0 +1,38 @@
+#abhineeth {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: rgb(77, 25, 77);
+    background: linear-gradient(180deg, rgba(77, 25, 77, 1) 0%, rgba(33, 47, 69, 1) 54%, rgba(0, 100, 102, 1) 100%);
+    color: white;
+}
+
+#abhineeth img {
+    width: 300px;
+    height: 300px;
+    max-width: 30vw;
+    max-height: 30vw;
+    border-radius: 150px;
+    border: 2px solid #fff;
+    object-fit: cover;
+    box-shadow: 2px 2px 50px rgba(0, 0, 0, 0.3);
+}
+
+#abhineeth .text-container h1 {
+    max-width: 80vw;
+    margin-bottom: 0;
+    font-weight: bolder;
+}
+
+#abhineeth .text-container h2 {
+    max-width: 80vw;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+#abhineeth .text-container p {
+    max-width: 50vw;
+    font-weight: lighter;
+}
