@@ -1,6 +1,6 @@
 import Owen from "./components/owen";
-import "./App.css";
 import Abhineeth from "./components/abhineeth";
+import "./App.css";
 
 function App() {
     return (
