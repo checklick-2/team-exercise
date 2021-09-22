@@ -1,0 +1,20 @@
+#opey {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #1b1b1b;
+    color: #fafafa;
+}
+
+#opeyImage {
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    object-fit: cover;
+}
+
+#opey .personal-introduction {
+    max-width: 60vw;
+}

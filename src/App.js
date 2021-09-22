@@ -1,7 +1,9 @@
 import Owen from "./components/owen";
 import Abhineeth from "./components/abhineeth";
-import "./App.css";
+import Opey from "./components/opey";
 import Mathew from "./components/mathew";
+import "./App.css";
+
 
 function App() {
     return (
@@ -12,6 +14,7 @@ function App() {
             </header>
             <Owen/>
             <Abhineeth/>
+            <Opey/>
             <Mathew/>
         </div>
     );
