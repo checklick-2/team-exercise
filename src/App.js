@@ -1,5 +1,6 @@
 import Owen from "./components/owen";
 import Abhineeth from "./components/abhineeth";
+import Opey from "./components/opey";
 import "./App.css";
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
             </header>
             <Owen/>
             <Abhineeth/>
+            <Opey/>
         </div>
     );
 }
