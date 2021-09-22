@@ -1,4 +1,5 @@
 import "./App.css";
+import Mathew from "./components/mathew";
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
         <h1>Checklick 2</h1>
         <h2>Meet the team</h2>
       </header>
+      <Mathew />
     </div>
   );
 }
