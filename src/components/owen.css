@@ -1,0 +1,24 @@
+#owen {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #232051;
+  color: white;
+}
+
+#owen img {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  object-fit: cover;
+}
+
+#owen .text-container h1 {
+  max-width: 80vw;
+}
+
+#owen .text-container p {
+  max-width: 80vw;
+}
