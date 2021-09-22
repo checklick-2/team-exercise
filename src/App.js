@@ -1,6 +1,7 @@
 import Owen from "./components/owen";
 import Abhineeth from "./components/abhineeth";
 import "./App.css";
+import Mathew from "./components/mathew";
 
 function App() {
     return (
@@ -11,6 +12,7 @@ function App() {
             </header>
             <Owen/>
             <Abhineeth/>
+            <Mathew/>
         </div>
     );
 }

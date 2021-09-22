@@ -1,0 +1,20 @@
+.mathew-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #19191b;
+    color: white;
+}
+
+.mathew-container img {
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    object-fit: cover;
+}
+
+.mathew-container .text-container {
+    max-width: 80vw;
+}
